@@ -1,0 +1,11 @@
+07.1 Finding Waldo 😄
+Finding Waldo
+
+¿Alguna vez has jugado "Dónde Está Waldo?" Solía jugar mucho cuando era pequeño, este ejercicio es una versión digital de encontrar a Waldo.
+
+📝 Instrucciones:
+Haz un bucle en este array que lo recorra por completo e imprima las posiciones donde se encuentra el string "Waldo".
+💡 Pistas:
+Necesitas agregar un condicional dentro del bucle.
+
+Waldo puede ser mayúscula o minúscula, compara ambos valores usando toLowerCase().

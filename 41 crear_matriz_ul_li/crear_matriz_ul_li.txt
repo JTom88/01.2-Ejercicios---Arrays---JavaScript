@@ -1,0 +1,5 @@
+24 Making a UL
+📝 Instrucciones:
+Rellena las funciones generateLI y filterColors para que el ejercicio imprima el siguiente HTML con solo los colores sexys.
+💻 Resultado esperado:
+<ul><li>Red</li><li>Orange</li><li>Pink</li><li>Violet</li></ul>
